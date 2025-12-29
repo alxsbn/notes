@@ -1,0 +1,29 @@
+# Site settings
+title: 11h.dev
+description: My personal blog
+author: alxsbn
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Site configuration
+baseurl: ""
+url: "https://11h.dev"
+
+# Permalink structure
+permalink: /:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
