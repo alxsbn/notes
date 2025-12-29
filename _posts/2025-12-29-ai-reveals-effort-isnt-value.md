@@ -5,9 +5,9 @@ date: 2025-12-29
 categories: ai productivity
 ---
 
-Scott Adams has a simple [https://www.youtube.com/live/y5ZkIDUuHAM](hypothesis): **laziness** isn't a lack of energy. It's a **cognitive bug**, the habit of focusing on cost rather than benefit.
+Scott Adams has a simple [hypothesis](https://www.youtube.com/live/y5ZkIDUuHAM): **laziness** isn't a lack of energy. It's a **cognitive bug**, the habit of focusing on cost rather than benefit.
 
-BJ Fogg says [https://youtu.be/AdKUJxjn-R8](something similar) with his "tiny habits": **reduce friction to initiate behavior**.
+BJ Fogg says [something similar](https://youtu.be/AdKUJxjn-R8) with his "tiny habits": **reduce friction to initiate behavior**.
 
 But what happens when **friction collapses**? AI just did that.
 
