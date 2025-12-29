@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-Hi, I'm *Alexis** 👋
+Hi, I'm **Alexis** 👋
 
 Welcome to my personal blog where I write about passions and projects I'm working on.
 
