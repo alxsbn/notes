@@ -1,8 +1,8 @@
-# Licence
+# License
 
-Ce dépôt contient à la fois du code (infrastructure du blog) et du contenu (articles de blog). Les licences suivantes s'appliquent :
+This repository contains both code (blog infrastructure) and content (blog posts). The following licenses apply:
 
-## Code et Infrastructure
+## Code and Infrastructure
 
 MIT License
 
@@ -26,20 +26,20 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Contenu du Blog
+## Blog Content
 
-Le contenu des articles de blog (textes, images, vidéos) est sous licence
+The blog content (text, images, videos) is licensed under
 Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Vous êtes libre de :
-- Partager — copier et redistribuer le contenu
-- Adapter — remixer, transformer et créer à partir du contenu
+You are free to:
+- Share — copy and redistribute the content
+- Adapt — remix, transform, and build upon the content
 
-Selon les conditions suivantes :
-- Attribution — Vous devez créditer l'œuvre, fournir un lien vers la licence
-  et indiquer si des modifications ont été apportées.
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made.
 
-Pour plus de détails : https://creativecommons.org/licenses/by/4.0/deed.fr
+For more details: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
