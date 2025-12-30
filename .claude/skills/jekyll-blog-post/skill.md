@@ -42,6 +42,10 @@ excerpt: "Short, punchy preview text for the home page"
 ### Optional Fields
 
 - **excerpt**: Strongly recommended. One sentence, max 2. Punchy, not descriptive.
+  - **CRITICAL**: Excerpt MUST be in the SAME language as the article content
+  - If article is in English → excerpt in English
+  - If article is in French → excerpt in French
+  - Language of title is irrelevant, follow the content language
 - **lang**: Only if non-English (e.g., `lang: fr`)
 
 ### Category Format
@@ -97,17 +101,25 @@ YYYY-MM-DD-title-slug-kebab-case.md
 
 The excerpt appears on the home page. Make it count.
 
+**CRITICAL RULE: Language Matching**
+- ✅ English article → English excerpt
+- ✅ French article → French excerpt
+- ❌ English article → French excerpt (NEVER do this)
+- The excerpt language MUST match the article content language, not the title
+
 **Good excerpts:**
-- ✅ "Deux mois pour que Karpathy bascule de 'les modèles ne sont pas là' à 'ne pas prendre le boost 10X est un skill issue'. La vraie compétence n'est plus de coder, c'est de lâcher prise."
-- ✅ "The puck moved. Stop staring at where it was."
-- ✅ "Laziness isn't the problem. It's the symptom and AI is the revealer."
+- ✅ "Two months from 'models aren't there' to 'not claiming the 10X boost is a skill issue.' The real skill isn't coding anymore. It's letting go." (English article)
+- ✅ "The puck moved. Stop staring at where it was." (English article)
+- ✅ "Laziness isn't the problem. It's the symptom and AI is the revealer." (English article)
 
 **Bad excerpts:**
 - ❌ "In this article, I discuss how AI is changing programming..."
 - ❌ "A comprehensive guide to understanding the impact of..."
 - ❌ "This post explores several key themes including..."
+- ❌ "Deux mois pour que Karpathy..." (when article is in English)
 
 **Rules:**
+- **Language MUST match content** (most important rule)
 - No meta-commentary ("in this post", "I discuss")
 - No filler words
 - Hook or provoke, don't describe
@@ -202,17 +214,17 @@ Before creating the post file:
 Before creating a new post:
 
 ```bash
-# Check recent posts for patterns
-ls -la _posts/*.md | tail -5
-
-# Read a few recent posts to understand style
+# Get the 5 most recent posts only
+ls -t _posts/*.md | head -5
 ```
 
-Extract:
-- Common categories
-- Excerpt style
+Read these 5 posts and extract:
+- Common categories (reuse when possible)
+- Excerpt style (language, tone, length)
 - Front matter patterns
 - Markdown conventions
+
+**Optimization**: Only analyze the 5 most recent posts, not the entire archive.
 
 ### Step 2: Generate Post Structure
 
@@ -272,13 +284,13 @@ Don't set custom permalinks. Use default structure from `_config.yml`:
 
 This skill will:
 
-1. **Read 3-5 recent posts** from `_posts/` to understand current patterns
+1. **Read the 5 most recent posts** from `_posts/` to understand current patterns
 2. **Extract front matter conventions** and common categories
 3. **Generate properly formatted post** with:
    - Valid Jekyll front matter
-   - Correct filename
-   - Consistent categories
-   - Punchy excerpt
+   - Correct filename (YYYY-MM-DD-slug.md)
+   - Consistent categories (reuse existing ones)
+   - Punchy excerpt **in the same language as the content**
 4. **Validate the structure** before creation
 5. **Suggest invoking impactful-writing skill** if content needs polishing
 
