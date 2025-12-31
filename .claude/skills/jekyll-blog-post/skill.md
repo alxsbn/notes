@@ -128,6 +128,16 @@ The excerpt appears on the home page. Make it count.
 
 ## Markdown Formatting
 
+### Section Separators
+
+**CRITICAL: DO NOT use `---` separators in article body.**
+
+- ❌ **Never** use `---` to separate sections in the article content
+- ✅ Use paragraph breaks and natural transitions instead
+- The article should flow as continuous prose without visual breaks
+
+Only `---` allowed is in the YAML front matter delimiter.
+
 ### Links
 
 Use standard markdown links:
