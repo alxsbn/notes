@@ -3,14 +3,14 @@ layout: post
 title: "When Photography Killed Painting (The AI Parallel)"
 date: 2025-12-30
 categories: ai history productivity
-excerpt: "In 1859, Baudelaire called photography 'art's most mortal enemy.' In 2025, Karpathy called AI code 'slop.' Both changed their minds. History doesn't repeat, but it rhymes."
+excerpt: "In 1859, Baudelaire called photography 'art's most mortal enemy' and demanded it remain a servant. In 2025, the same arguments echo about AI and code. History doesn't repeat, but it rhymes."
 ---
 
-**October 2025.** Andrej Karpathy: "Overall, the models are not there. It's slop."
+The debates about AI replacing programmers feel **unprecedented**. Urgent. Existential.
 
-**December 2025.** Same Karpathy: "I've never felt this behind as a programmer. A 10X boost is available and a failure to claim it feels decidedly like skill issue."
+They're not. We've been here before.
 
-Two months to flip. But this story is 166 years old.
+**166 years ago**, when photography arrived, the art world had the exact same meltdown.
 
 ## 1859: Art's most mortal enemy
 
@@ -32,25 +32,15 @@ But here's the twist.
 
 ## 1862: The League Against Photography
 
-Jean-Auguste-Dominique Ingres, established master painter, **founded the "League of Artists Against Photography"** and led a formal "Protest by great artists against any assimilation of photography to art."
+Jean-Auguste-Dominique Ingres, established master of French academic painting, **founded the "League of Artists Against Photography"** and led a formal "Protest by great artists against any assimilation of photography to art."
 
 The irony? **Ingres himself used photography** to assist his paintings.
 
 He saw the threat. Used the tool. But publicly fought to keep it subordinate.
 
-Does this remind you of anyone?
+Ingres remains a towering figure in art history. His paintings hang in the Louvre. But his **resistance to photography**?
 
-## Karpathy = Ingres
-
-Both are **established masters** of their craft.
-
-Both **initially resisted** the new technology publicly.
-
-Both **eventually adapted** (Karpathy in just 2 months, Ingres... well, he died still fighting).
-
-The difference? Karpathy had the humility to update his mental model. Publicly. "Skill issue."
-
-Ingres held the line and **lost to history**.
+Forgotten. Irrelevant. History moved on without him.
 
 ## The ones who won: those born with the camera
 
@@ -69,24 +59,28 @@ They didn't fight photography. They **made it irrelevant** by going where it cou
 
 ## Today's impressionists
 
-The developers born with AI don't see it as a threat to their identity.
+The pattern is repeating.
 
-They don't have **years of craft pride** tied to "writing clean code by hand."
+Senior developers—years of experience, battle-tested expertise—often resist AI coding tools the hardest. Not because they're wrong about code quality. But because they have **the most to lose**.
 
-They don't feel defensive about "code means typing characters."
+Years of muscle memory. Reflexes. Craft pride tied to "writing elegant code."
 
-They just **ship**. From Slack. While waiting for their kids at school.
+Meanwhile, new developers arriving today don't carry that weight. AI coding tools **are just there**. Reality. Not a threat to unlearn around.
 
-Boris Cherny (creator of Claude Code): 259 PRs, 497 commits, 40k lines in 30 days. Every line written by Claude. To build Claude Code.
+They don't debate whether AI-generated code is "real programming."
 
-The juniors arriving now? They're the Monets of code. No resistance. Just **"what can I build with this?"**
+They just ask: **"What can I build with this?"**
+
+The seniors who **let go** will evolve. Like the academic painters who adapted, shifted focus, found new value beyond technical execution.
+
+The ones who hold the line? History has already written their story. It's called the League Against Photography.
 
 ## The question
 
-Baudelaire and Ingres are footnotes in photography history. **Forgotten resistance**.
+Ingres' paintings still hang in museums. But his **League Against Photography**? Forgotten. A historical curiosity.
 
-The Impressionists? They **defined modern art**.
+The Impressionists didn't fight the camera. They **defined modern art**.
 
-The skill issue isn't coding. It's **letting go**.
+The skill that matters now isn't defending the old craft. It's **letting go** to discover what comes next.
 
-Which side of history are you on?
+Which side are you on?
