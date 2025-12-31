@@ -30,7 +30,7 @@ Jean-Auguste-Dominique Ingres, established master of French academic painting, s
 
 The irony? Ingres himself used photography to assist his paintings, and [posed for photographers multiple times](https://www.musee-orsay.fr/en/artworks/ingres-76922) throughout his life. He saw the threat, used the tool, but publicly fought to keep it subordinate.
 
-Ingres remains a towering figure in art history, his paintings hang in the Louvre. But his resistance to photography? Forgotten, irrelevant. History moved on without him.
+Ingres remains a towering figure in art history, his paintings hang in the Louvre. But his resistance to photography? Forgotten and irrelevant. History moved on without him.
 
 ## The ones who won: those born with the camera
 
@@ -44,7 +44,7 @@ And photography didn't just fail to destroy painting, it liberated it. By taking
 
 The pattern is repeating.
 
-Senior developers, with years of experience and battle-tested expertise, will almost certainly resist AI coding tools the hardest. Not because they're wrong about code quality, but because they have the most to lose: years of muscle memory, hard-won reflexes, craft pride tied to "writing elegant code."
+Senior developers, with years of experience and battle-tested expertise, will almost certainly resist AI coding tools the hardest. Not because they're wrong about code, but because they have the most to lose: years of muscle memory, hard-won reflexes, craft pride tied to "writing elegant code."
 
 Meanwhile, new developers arriving today won't carry that weight. For them, AI coding tools will simply be there, reality rather than a threat to unlearn around. They won't debate whether AI-generated code is "real programming." They'll just ask: what can I build with this?
 
