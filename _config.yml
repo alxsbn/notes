@@ -11,6 +11,7 @@ theme: minima
 # Site configuration
 baseurl: ""
 url: "https://11h.dev"
+google_analytics: G-2KBT4V4MS1
 
 # Permalink structure
 permalink: /:year/:month/:day/:title/
