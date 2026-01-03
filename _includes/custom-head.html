@@ -2,3 +2,40 @@
 <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 <link rel="alternate icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{{ '/assets/favicon.svg' | relative_url }}">
+
+<!-- Header Image Styles -->
+<style>
+.post-header-image {
+  margin: 0 0 2rem 0;
+  padding: 0;
+}
+
+.post-header-image img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.post-header-image figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.85em;
+  color: var(--minima-text-color-secondary, #828282);
+  text-align: center;
+}
+
+.post-header-image figcaption a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.post-header-image figcaption a:hover {
+  color: var(--minima-link-color, #2a7ae2);
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-header-image figcaption {
+    color: #999;
+  }
+}
+</style>

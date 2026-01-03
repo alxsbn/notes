@@ -4,6 +4,12 @@ title: "Plunder Is the Feature"
 date: 2025-12-31
 categories: ai history philosophy
 excerpt: "Rob Pike screams theft. History yawns."
+header_image: "https://images.unsplash.com/photo-1544967082-d9d25d867d66?w=1600&q=80"
+header_image_alt: "Classical painting in a museum"
+header_image_credit: "Europeana"
+header_image_credit_url: "https://unsplash.com/@europeana"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 Christmas 2025. Rob Pike, co-creator of Go, UTF-8, Plan 9, [receives an email](https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s). An AI thanks him for his "extraordinary contributions to computer science."
