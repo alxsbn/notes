@@ -5,6 +5,12 @@ date: 2016-04-11
 categories: [data, digital, work, tech]
 excerpt: "Our era is branded by the ultra-financialization of a capitalism often described as shameless, exacerbated, and pushing toward egocentrism..."
 lang: en
+header_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1600&q=80"
+header_image_alt: "Digital matrix code"
+header_image_credit: "Markus Spiske"
+header_image_credit_url: "https://unsplash.com/@markusspiske"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 Our era is branded by the ultra-financialization of a capitalism often described as shameless, exacerbated, and pushing toward egocentrism.

@@ -4,6 +4,12 @@ title: "The 10X is here. It's a skill issue."
 date: 2025-12-30
 categories: ai productivity coding
 excerpt: "Two months from 'models aren't there' to 'not claiming the 10X boost is a skill issue.' The real skill isn't coding anymore. It's letting go."
+header_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1600&q=80"
+header_image_alt: "Code on a computer screen"
+header_image_credit: "Ilya Pavlov"
+header_image_credit_url: "https://unsplash.com/@ilyapavlov"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 **October 2025.** Andrej Karpathy, OpenAI founding member, former Tesla AI director: "Overall, the models are not there. It's slop." He didn't want agents going off for 20 minutes dumping 1,000 lines of code. He feared "mountains of slop accumulating across software."

@@ -3,8 +3,14 @@ layout: post
 title: "MySQL to S3 with AWS DMS: What actually works in production"
 date: 2025-12-15
 categories: [data, work, tech]
-excerpt: "I don’t like sharing experience reports on specific software. These articles age poorly. But on AWS DMS to S3 we’ve suffered enough at…"
+excerpt: "I don't like sharing experience reports on specific software. These articles age poorly. But on AWS DMS to S3 we've suffered enough at…"
 lang: en
+header_image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80"
+header_image_alt: "Server room with blue lights"
+header_image_credit: "Taylor Vick"
+header_image_credit_url: "https://unsplash.com/@tvick"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 I don’t like sharing experience reports on specific software. These articles age poorly. But on AWS DMS to S3 we’ve suffered enough at [Jolimoi](https://www.jolimoi.com) that keeping it to ourselves would be criminal.

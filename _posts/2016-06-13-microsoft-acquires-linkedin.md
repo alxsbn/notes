@@ -5,6 +5,12 @@ date: 2016-06-13
 categories: [digital, work, tech]
 excerpt: "Microsoft has just made its biggest acquisition by buying LinkedIn. Beyond the impressive bill left by the purchase (I'll let you calculate the cost/user ratio), what many will analyze remains the reason for the purchase—the why?"
 lang: en
+header_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1600&q=80"
+header_image_alt: "Business networking and connection"
+header_image_credit: "Brooke Cagle"
+header_image_credit_url: "https://unsplash.com/@brookecagle"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 Microsoft has just made its biggest acquisition by buying LinkedIn. Beyond the impressive bill left by the purchase (I'll let you calculate the cost/user ratio), what many will analyze remains the reason for the purchase—the why?

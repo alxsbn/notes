@@ -5,6 +5,12 @@ date: 2014-04-28
 categories: [digital, work, tech]
 excerpt: "We are what we share. But here arises the question of the meaning of action, of sharing. What to do with those who don't want to, cannot, or don't wish to share?"
 lang: en
+header_image: "https://images.unsplash.com/photo-1531746790095-e6b756b7e08a?w=1600&q=80"
+header_image_alt: "Industrial robot arm"
+header_image_credit: "Possessed Photography"
+header_image_credit_url: "https://unsplash.com/@possessedphotography"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 **We are what we share**. But here arises the question of the meaning of action, of sharing. What to do with those who don’t want to, cannot, or don’t wish to share? In an era where we’ll seek to maximize network effects, which inextricably feed collective intelligence, it’s worth examining those people who don’t fit into this framework, or at least, who don’t try to participate in the general conversation.

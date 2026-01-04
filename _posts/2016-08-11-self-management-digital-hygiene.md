@@ -5,6 +5,12 @@ date: 2016-08-11
 categories: [digital, work, tech]
 excerpt: "I have a two-and-a-half-year-old son who is my pride. This little guy amazes me day after day, and I marvel as much watching him grow as he does discovering things that seem mundane to me..."
 lang: en
+header_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1600&q=80"
+header_image_alt: "Organized desk and productivity"
+header_image_credit: "Glenn Carstens-Peters"
+header_image_credit_url: "https://unsplash.com/@glenncarstenspeters"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 I have a two-and-a-half-year-old son who is my pride. This little guy amazes me day after day, and I marvel as much watching him grow as he does discovering things that seem mundane to me. Take the example of brushing teeth: his skill grows with practice, but we make sure to show him the right way. Or at least what we think is right for him, in accordance with our principles, our experience, etc. Hygiene is learned, acquired from an early age—I won't give you a lecture on the subject.

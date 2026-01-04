@@ -5,6 +5,12 @@ date: 2024-06-17
 categories: [data, cloud, finops, databricks]
 excerpt: "Best practices for handling and managing Databricks costs - from understanding the cost structure to optimizing compute and leveraging cloud capabilities."
 original_url: "https://tech.jolimoi.com/databricks-costs-management-part-1/"
+header_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1600&q=80"
+header_image_alt: "Coins and financial management"
+header_image_credit: "Michael Longmire"
+header_image_credit_url: "https://unsplash.com/@f7photo"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 > This article was originally published on [tech.jolimoi.com](https://tech.jolimoi.com/databricks-costs-management-part-1/) alongside a talk we gave at a Databricks meetup, where we were invited to share insights on how we manage our costs effectively.

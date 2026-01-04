@@ -5,6 +5,12 @@ date: 2016-02-09
 categories: [digital, work, tech]
 excerpt: "Digital is like an endless torrent. Far from being a quiet, peaceful river, it seeps in even where it's not expected. As a result, some companies are bailing water from all sides..."
 lang: en
+header_image: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=1600&q=80"
+header_image_alt: "Water flowing like a torrent"
+header_image_credit: "Linus Nylund"
+header_image_credit_url: "https://unsplash.com/@doto"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 Digital is like an endless torrent. Far from being a quiet, peaceful river, it seeps in even where it's not expected. As a result, some companies are bailing water from all sides. But without stopping the leaks, the effort is endless, and the outcome inevitable.

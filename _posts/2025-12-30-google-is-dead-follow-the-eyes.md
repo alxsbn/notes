@@ -4,6 +4,12 @@ title: "Google Is Dead. Follow The Eyes"
 date: 2025-12-30
 categories: marketing ai
 excerpt: "The puck moved. Stop staring at where it was."
+header_image: "https://images.unsplash.com/photo-1515703407324-5f753afd8be8?w=1600&q=80"
+header_image_alt: "Ice hockey players on the rink"
+header_image_credit: "Markus Spiske"
+header_image_credit_url: "https://unsplash.com/@markusspiske"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 A hockey goalie on [Hacker News](https://news.ycombinator.com/item?id=46425198) nailed it:

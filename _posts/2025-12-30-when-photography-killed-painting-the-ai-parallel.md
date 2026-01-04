@@ -4,6 +4,12 @@ title: "When Photography Killed Painting: The AI Parallel"
 date: 2025-12-30
 categories: ai history productivity
 excerpt: "166 years ago, when photography arrived, the art world had the exact same meltdown we're seeing with AI today. History doesn't repeat, but it rhymes."
+header_image: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1600&q=80"
+header_image_alt: "Vintage camera on wooden surface"
+header_image_credit: "Jakob Owens"
+header_image_credit_url: "https://unsplash.com/@jakobowens1"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 The debates about AI replacing programmers feel unprecedented, urgent, existential.

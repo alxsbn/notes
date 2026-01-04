@@ -5,6 +5,12 @@ date: 2016-02-17
 categories: [data, digital, work, tech]
 excerpt: "Take the example of what we call 'self-service.' You have all had the opportunity to work implicitly on the production of a service or product, and for free..."
 lang: en
+header_image: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1600&q=80"
+header_image_alt: "Data and code on screen"
+header_image_credit: "Kevin Ku"
+header_image_credit_url: "https://unsplash.com/@ikukevk"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 Take the example of what we call "self-service." You have all had the opportunity to work implicitly on the production of a service or product, and for free. This is the case when you go through the self-checkout at your supermarket. The cashier is replaced by a scanner and a rather basic automaton: you scan the product, place it on a scale, you pay, and the deal is done.

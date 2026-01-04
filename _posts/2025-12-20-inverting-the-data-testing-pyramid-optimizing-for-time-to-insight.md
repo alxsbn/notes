@@ -3,6 +3,13 @@ layout: post
 title: "Inverting the Data Testing Pyramid: Optimizing for Time to Insight"
 date: 2025-12-20
 categories: data testing
+excerpt: "The core issue wasn't test coverage. It was what we were optimizing for."
+header_image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&q=80"
+header_image_alt: "Data visualization dashboard"
+header_image_credit: "Luke Chesser"
+header_image_credit_url: "https://unsplash.com/@lukechesser"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 At [Jolimoi](https://www.jolimoi.com) we ran 3,500 tests across 500 models with a small data team. The outcome was predictable: slower delivery, maintenance overhead, duplicated validation of logic already tested in our APIs, and no improvement in business trust.

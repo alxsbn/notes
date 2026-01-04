@@ -3,8 +3,14 @@ layout: post
 title: "Lost in the Data Fog? Your Company Might Be Overdosing"
 date: 2025-02-08
 categories: [data, tech]
-excerpt: "Everyone wants to be “data-driven,” but no one talks about the dangers of analytical overdose. Too much data, more confusion, zero impact…"
+excerpt: "Everyone wants to be "data-driven," but no one talks about the dangers of analytical overdose. Too much data, more confusion, zero impact…"
 lang: en
+header_image: "https://images.unsplash.com/photo-1485236715568-ddc5ee6ca227?w=1600&q=80"
+header_image_alt: "Fog over a landscape"
+header_image_credit: "Luca Bravo"
+header_image_credit_url: "https://unsplash.com/@lucabravo"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 
 Everyone wants to be “data-driven,” but no one talks about the dangers of analytical overdose. **Too much data, more confusion, zero impact.** Like a [**bloatware**](https://en.wikipedia.org/wiki/Software_bloat), excessive data slows you down, clogs decision-making, and eventually paralyzes your organization. Here’s the vicious cycle of **data bloat.**

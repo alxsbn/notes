@@ -26,8 +26,36 @@ title: "Post Title"
 date: YYYY-MM-DD
 categories: [category1, category2]
 excerpt: "Short description for preview"
+header_image: "https://images.unsplash.com/photo-XXXXX?w=1600&q=80"
+header_image_alt: "Image description"
+header_image_credit: "Photographer Name"
+header_image_credit_url: "https://unsplash.com/@photographer"
+header_image_source: "Unsplash"
+header_image_source_url: "https://unsplash.com"
 ---
 ```
+
+### Header Images
+Every blog post should have a header image. The custom `_layouts/post.html` supports header images with proper attribution.
+
+**How to add a header image:**
+1. Go to [Unsplash](https://unsplash.com) and search for an image matching the article's theme
+2. Copy the photo URL (format: `https://images.unsplash.com/photo-XXXXX`)
+3. Add `?w=1600&q=80` for optimization
+4. Copy the photographer's name and profile URL for attribution
+5. Add all `header_image_*` fields to the front matter
+
+**Supported fields:**
+| Field | Required | Description |
+|-------|----------|-------------|
+| `header_image` | Yes | URL to the image (Unsplash or local `/assets/images/...`) |
+| `header_image_alt` | Yes | Alt text for accessibility |
+| `header_image_credit` | Recommended | Photographer's name |
+| `header_image_credit_url` | Recommended | Photographer's profile URL |
+| `header_image_source` | Optional | Source name (e.g., "Unsplash") |
+| `header_image_source_url` | Optional | Source website URL |
+
+**Local images:** Store in `/assets/images/` and reference as `/assets/images/filename.jpg`
 
 ## Author Information
 - **Name**: Alexis Blandin (alxsbn)
